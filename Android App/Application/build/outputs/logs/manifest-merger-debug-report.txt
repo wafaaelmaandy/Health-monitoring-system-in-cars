@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:16:1-81:12
+	package
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:17:5-48
+	android:versionName
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:23:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:33:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:34:5-67
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:34:22-64
+application
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:37:5-79:19
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Viva\.android\build-cache\0b201ade0f49a6ae25318c6e81c12bffdd113aa6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Viva\.android\build-cache\a8155de6986cc342192550622c210e42b9a8c179\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Viva\.android\build-cache\397e4828c7174a849ba3c6d3d6e984ff6a830419\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Viva\.android\build-cache\e12a51bd471f0b401c2eaab70a9100b40d9a936f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Viva\.android\build-cache\0dd6e930e66889e50e06b05873e4fad40431d45a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Viva\.android\build-cache\49ed39327491e12c55d675c151c80226932b11b9\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Viva\.android\build-cache\6baba6b825ef43dbb2104b0b0ce5c3b5f4194fcc\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Viva\.android\build-cache\e5061ed92b9b63e45bdd0fe1fcbc881c024b1203\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Viva\.android\build-cache\05ffd5000fd6623fac1c9e3b29c61f6652248877\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Viva\.android\build-cache\406185e64131b2f5bd80cabbbabda2186fd87d82\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Viva\.android\build-cache\2776576798a69ef532e63c852e69b68825c40c4c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Viva\.android\build-cache\a9330df05bf2bf0199424fcc9b036e7a58319a5b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Viva\.android\build-cache\34c77caaec11efbdde93c0c48ff7fa6536a2f2e1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Viva\.android\build-cache\9dc39ef6742e84c78503f12eca7977c84bd61530\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:40:9-41
+	android:allowBackup
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:41:9-40
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:45:13-45
+	android:configChanges
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:43:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:49:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:52:9-56:64
+	android:label
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:55:13-50
+	android:configChanges
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:54:13-63
+	android:theme
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:56:13-61
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:53:13-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:66:9-68:55
+	android:value
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:68:13-52
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:67:13-58
+activity#com.example.android.bluetoothchat.MapsActivity
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:70:9-72:58
+	android:label
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:72:13-56
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:71:13-41
+activity#com.example.android.bluetoothchat.AddNumbers
+ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:75:9-77:63
+	android:label
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:76:13-60
+	android:theme
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:77:13-61
+	android:name
+		ADDED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml:75:19-45
+uses-sdk
+INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Viva\.android\build-cache\0b201ade0f49a6ae25318c6e81c12bffdd113aa6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Viva\.android\build-cache\a8155de6986cc342192550622c210e42b9a8c179\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Viva\.android\build-cache\397e4828c7174a849ba3c6d3d6e984ff6a830419\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Viva\.android\build-cache\e12a51bd471f0b401c2eaab70a9100b40d9a936f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Viva\.android\build-cache\0dd6e930e66889e50e06b05873e4fad40431d45a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Viva\.android\build-cache\49ed39327491e12c55d675c151c80226932b11b9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Viva\.android\build-cache\6baba6b825ef43dbb2104b0b0ce5c3b5f4194fcc\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Viva\.android\build-cache\e5061ed92b9b63e45bdd0fe1fcbc881c024b1203\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Viva\.android\build-cache\05ffd5000fd6623fac1c9e3b29c61f6652248877\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Viva\.android\build-cache\406185e64131b2f5bd80cabbbabda2186fd87d82\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Viva\.android\build-cache\2776576798a69ef532e63c852e69b68825c40c4c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Viva\.android\build-cache\a9330df05bf2bf0199424fcc9b036e7a58319a5b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Viva\.android\build-cache\34c77caaec11efbdde93c0c48ff7fa6536a2f2e1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Viva\.android\build-cache\9dc39ef6742e84c78503f12eca7977c84bd61530\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Viva\.android\build-cache\397e4828c7174a849ba3c6d3d6e984ff6a830419\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\courses\android\apps\bluetoothChat3\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Viva\.android\build-cache\0b201ade0f49a6ae25318c6e81c12bffdd113aa6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Viva\.android\build-cache\a8155de6986cc342192550622c210e42b9a8c179\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Viva\.android\build-cache\397e4828c7174a849ba3c6d3d6e984ff6a830419\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Viva\.android\build-cache\e12a51bd471f0b401c2eaab70a9100b40d9a936f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Viva\.android\build-cache\0dd6e930e66889e50e06b05873e4fad40431d45a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Viva\.android\build-cache\05ffd5000fd6623fac1c9e3b29c61f6652248877\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Viva\.android\build-cache\406185e64131b2f5bd80cabbbabda2186fd87d82\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Viva\.android\build-cache\2776576798a69ef532e63c852e69b68825c40c4c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Viva\.android\build-cache\a9330df05bf2bf0199424fcc9b036e7a58319a5b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Viva\.android\build-cache\34c77caaec11efbdde93c0c48ff7fa6536a2f2e1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Viva\.android\build-cache\9dc39ef6742e84c78503f12eca7977c84bd61530\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Viva\.android\build-cache\0b201ade0f49a6ae25318c6e81c12bffdd113aa6\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\Viva\.android\build-cache\0b201ade0f49a6ae25318c6e81c12bffdd113aa6\output\AndroidManifest.xml:23:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Viva\.android\build-cache\49ed39327491e12c55d675c151c80226932b11b9\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Viva\.android\build-cache\49ed39327491e12c55d675c151c80226932b11b9\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Viva\.android\build-cache\49ed39327491e12c55d675c151c80226932b11b9\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Viva\.android\build-cache\49ed39327491e12c55d675c151c80226932b11b9\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Viva\.android\build-cache\e5061ed92b9b63e45bdd0fe1fcbc881c024b1203\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Viva\.android\build-cache\e5061ed92b9b63e45bdd0fe1fcbc881c024b1203\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Viva\.android\build-cache\e5061ed92b9b63e45bdd0fe1fcbc881c024b1203\output\AndroidManifest.xml:20:20-65

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\34c77caaec11efbdde93c0c48ff7fa6536a2f2e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_b1be6bd0274d13a9cda130765871433094168000.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\6baba6b825ef43dbb2104b0b0ce5c3b5f4194fcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_fc2173afe23586db5ce63aa6f0fa73c9706e78d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\9dc39ef6742e84c78503f12eca7977c84bd61530\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_1fb8ef9e75a37b2a21b791258d9dcf532d9e2b1a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\courses\android\apps\BluetoothChat1\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\courses\android\apps\BluetoothChat1\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d4e1ce00e94a6a842b5af1bf5e64660a323f1a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\05ffd5000fd6623fac1c9e3b29c61f6652248877\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_8252db0ceadc3cbce848dc911c6d72709d81c830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\0dd6e930e66889e50e06b05873e4fad40431d45a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_c7997fe01d6827a750a7c5199ebd47d702ff1867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\courses\android\apps\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5e0e8d6b4ed4379255be8f4f1c494ca5932fbee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\2776576798a69ef532e63c852e69b68825c40c4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_8224e44c994421ba6f102698a2a2fe661ccd59da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\49ed39327491e12c55d675c151c80226932b11b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_18d8cf090ebc6cef4fbd5c0627ba4fed1549b8ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\courses\android\apps\BluetoothChat1\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e789267556695384f5271500e8a900ecf5191ba5">
+        <dex dex="E:\courses\android\apps\BluetoothChat1\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_332d68dd527b2062207f2b165986dd7696a2d051\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\406185e64131b2f5bd80cabbbabda2186fd87d82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_4a03aba993cb6429541a7a884aedee77363b8e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\a9330df05bf2bf0199424fcc9b036e7a58319a5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_be994ce0cbacf60045f20109bcb2deca6a7b8f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\e5061ed92b9b63e45bdd0fe1fcbc881c024b1203\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_2901c8efc5e5db25579891fdca2010b88a3c7db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\e12a51bd471f0b401c2eaab70a9100b40d9a936f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_624c95d5cc0857d6d671ac1b8d2adfab2fe6dc01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\11d9701a3f5aadb7caaa5f5853377d5e4da6f283\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_d9b47a4e2ff9c268eb29209056f70609edbe1c72.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Viva\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\courses\android\apps\BluetoothChat1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_5e0e8d6b4ed4379255be8f4f1c494ca5932fbee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\a8155de6986cc342192550622c210e42b9a8c179\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_06c971db226be36af8680d73c0fd1ae6fb160c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\0b201ade0f49a6ae25318c6e81c12bffdd113aa6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_441e108fd642693dc597446a7a7ea232fdbfd44a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viva\.android\build-cache\397e4828c7174a849ba3c6d3d6e984ff6a830419\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\courses\android\apps\bluetoothChat3\Application\build\intermediates\pre-dexed\debug\classes_865297157707faa6db72f3e1679b52b1546b59fc.jar" />
+    </item>
+
+</items>
